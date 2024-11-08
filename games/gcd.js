@@ -1,3 +1,4 @@
+// Logica del Juego brain-gcd
 import getRandomInt from '../utils/random-number.js';
 // Función para calcular el MCD de dos números
 const gcd = (a, b) => {

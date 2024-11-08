@@ -24,3 +24,9 @@ Para ver cómo se instala el paquete y se juega, mira el siguiente video interac
 Para ver cómo se instala el paquete y se juega, mira el siguiente video interactivo de terminal:
 
 [Ver la grabación del juego en asciinema](https://asciinema.org/a/xSGh8wx5WceW1e4BpuXAri5iD)
+
+## Instalación y Ejecución del Juego Numero Primo
+
+Para ver cómo se instala el paquete y se juega, mira el siguiente video interactivo de terminal:
+
+[Ver la grabación del juego en asciinema](https://asciinema.org/a/3SBdlHadzn1UZPWDyRvH8zEix)
