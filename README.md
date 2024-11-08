@@ -12,3 +12,9 @@ Para ver cómo se instala el paquete y se juega, mira el siguiente video interac
 Para ver cómo se instala el paquete y se juega, mira el siguiente video interactivo de terminal:
 
 [Ver la grabación del juego en asciinema](https://asciinema.org/a/2ydR8H9cmp7yLNalTzqa6NgPt)
+
+## Instalación y Ejecución del Juego Maximo Comun Divisor
+
+Para ver cómo se instala el paquete y se juega, mira el siguiente video interactivo de terminal:
+
+[Ver la grabación del juego en asciinema](https://asciinema.org/a/ZYKvwTOOqy7OYdYlX03YzbF9U)
