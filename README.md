@@ -18,3 +18,9 @@ Para ver cómo se instala el paquete y se juega, mira el siguiente video interac
 Para ver cómo se instala el paquete y se juega, mira el siguiente video interactivo de terminal:
 
 [Ver la grabación del juego en asciinema](https://asciinema.org/a/ZYKvwTOOqy7OYdYlX03YzbF9U)
+
+## Instalación y Ejecución del Juego Progresion Aritmetica
+
+Para ver cómo se instala el paquete y se juega, mira el siguiente video interactivo de terminal:
+
+[Ver la grabación del juego en asciinema](https://asciinema.org/a/xSGh8wx5WceW1e4BpuXAri5iD)
