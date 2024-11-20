@@ -5,7 +5,7 @@ const playGame = (gameLogic, description) => {
   console.log('¡Bienvenido a Brain Games!');
 
   // Solicitar el nombre del jugador
-  const name = readlineSync.question('¿Cual es tu nombre? ');
+  const name = readlineSync.question('¿Cuál es tu nombre? ');
   console.log(`¡Hola, ${name}!`);
 
   // Mostrar la descripción del juego (si se proporciona)
@@ -26,7 +26,7 @@ const playGame = (gameLogic, description) => {
       console.log('¡Correcto!');
     } else {
       console.log(`'${userAnswer}' es una respuesta incorrecta ;(. La respuesta correcta era '${correctAnswer}'.`);
-      console.log(`¡Intentemoslo de nuevo, ${name}!`);
+      console.log(`¡Intentémoslo de nuevo, ${name}!`);
       return; // Fin del juego si la respuesta es incorrecta
     }
   }
