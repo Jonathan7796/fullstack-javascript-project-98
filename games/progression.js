@@ -16,7 +16,7 @@ const gameProgressionLogic = () => {
   // Guardamos la respuesta correcta y reemplazamos el número por '..'
   const correctAnswer = progresion[indiceFaltante];
   progresion[indiceFaltante] = '..';
-  const question = progresion;
+  const question = progresion.join(" ");
 
   return { question, correctAnswer };
 };
