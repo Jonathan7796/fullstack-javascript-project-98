@@ -14,7 +14,7 @@ const playGame = (gameLogic, description) => {
   }
 
   // Jugar 3 rondas
-  for (let round = 0; round < 3; round++) {
+  for (let round = 0; round < 3; round += 1) {
     const { question, correctAnswer } = gameLogic();
 
     // Hacer una pregunta y obtener la respuesta del usuario

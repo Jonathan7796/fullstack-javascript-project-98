@@ -2,12 +2,14 @@
 import getRandomInt from '../utils/random-number.js';
 // Función para calcular el MCD de dos números
 const gcd = (a, b) => {
-  while (b !== 0) {
-    const temp = b;
-    b = a % b;
-    a = temp;
+  let x = a;
+  let y = b;
+  while (y !== 0) {
+    const temp = y;
+    y = x % y;
+    x = temp;
   }
-  return a;
+  return x;
 };
 
 // Función principal del juego

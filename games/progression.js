@@ -7,7 +7,7 @@ const gameProgressionLogic = () => {
   const primerNumero = getRandomInt(1, 20);
   // Generar Progresion
   const progresion = [];
-  for (let i = 0; i < longitud; i++) {
+  for (let i = 0; i < longitud; i += 1) {
     progresion.push(primerNumero + i * razon);
   }
   // Elegir aleatoriamente el índice donde se va a ocultar el número
@@ -16,7 +16,7 @@ const gameProgressionLogic = () => {
   // Guardamos la respuesta correcta y reemplazamos el número por '..'
   const correctAnswer = progresion[indiceFaltante];
   progresion[indiceFaltante] = '..';
-  const question = progresion.join(" ");
+  const question = progresion.join(' ');
 
   return { question, correctAnswer };
 };
